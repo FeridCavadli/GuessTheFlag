@@ -12,3 +12,4 @@
 
 ## Screenshots
 
+https://github.com/FeridCavadli/GuessTheFlag/blob/main/GuessTheFlag/Screenshots/Screenshot%202025-05-22%20at%2023.08.03.png
